@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1464641257 source:c:\users\fbidp\desktop\bibl\bibl.c
+	<stdio.h>
+	"bibl.h"
+
+1464641299 c:\users\fbidp\desktop\bibl\bibl.h
+	<stdbool.h>
+
+1464641147 source:c:\users\fbidp\desktop\bibl\funcmain.c
+	<stdio.h>
+	"bibl.h"
+	<stdbool.h>
+

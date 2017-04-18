@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1464511746 source:f:\facultate\anul 1\semestrul 2\bibioteca\biblioteca.c
+	<stdio.h>
+	"biblioteca.h"
+	<stdbool.h>
+
+1464513508 f:\facultate\anul 1\semestrul 2\bibioteca\biblioteca.h
+	<stdbool.h>
+
+1464512086 source:f:\facultate\anul 1\semestrul 2\bibioteca\functii_liste.c
+	<stdio.h>
+	"biblioteca.h"
+	<stdbool.h>
+
+1464601003 source:c:\users\fbidp\desktop\bibioteca\bibioteca\biblioteca.c
+	<stdio.h>
+	"biblioteca.h"
+	<stdbool.h>
+
+1464600618 c:\users\fbidp\desktop\bibioteca\bibioteca\biblioteca.h
+	<stdbool.h>
+
+1464599821 source:c:\users\fbidp\desktop\bibioteca\bibioteca\functii_liste.c
+	<stdio.h>
+	"biblioteca.h"
+	<stdbool.h>
+
